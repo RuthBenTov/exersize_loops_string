@@ -53,8 +53,8 @@ let sum = 0
 for(let i = 0; i<maarch.length ; i++){
     sum+=maarch[i]
 }
-
-console.log(sum/maarch.length);
+console.log("sum: " + sum)
+console.log("avg: " + sum/maarch.length);
 
 //-------------------שאלה 5--------------------------------
 
